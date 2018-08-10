@@ -11,7 +11,7 @@
 ### Run installs
 
 # Certificate
-Install-SitecoreConfiguration @cert
+Install-SitecoreConfiguration @cert 
 
 # Xconnect
 Install-SitecoreConfiguration @xconnectSolr
